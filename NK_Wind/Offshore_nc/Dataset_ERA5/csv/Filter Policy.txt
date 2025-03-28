@@ -1,0 +1,11 @@
+Data Filter
+
+In Terms of filtering comparison_grid data, there will be two arguments for filtering.
+
+1. Comparison Data must not have duplicate data as candidate data 
+(If it does, the data will be omitted in comparison-grid)
+
+2. Since it is mostly for offshore, not onshore, deletion of onshore data will be "must-do"
+
+
+both ERA5 and NASA CCMP datasets will be done by this filtering
