@@ -188,10 +188,15 @@ hist(df_scaled_WS_f,
      main = "Standardized Wind Speed 37.25 125.5",
      xlab = "Z-Score")
 
+# or maybe just make separate csvs decided by lat,long
+# and each csv will have dir and str within separated in days -> 2x366
+
+# and do on jupyter notebook for batch processing and easy comparison
+
 # making numerical array for skewness, kurtosis values
 
 # making numerical array for Normal Distribution and mean values
 
 # making boxplot/violinplot for visualizing data distributions
-
+# make as Horizontal or just make it separate png files
 
